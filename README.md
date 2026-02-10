@@ -6,6 +6,7 @@
 
 ```
 // .env file example
+MONGODB_URI = "mongodb+srv://admin:adminpassword@okten-exam.prpxw59.mongodb.net/auto-market"
 SECRET_ACCESS_TOKEN = 'SECRET_ACCESS_TOKEN'
 SECRET_REFRESH_TOKEN = 'SECRET_REFRESH_TOKEN'
 GOOGLE_USER = 'email@gmail.com' // enter your Google email
@@ -19,6 +20,14 @@ SWEAR_WORDS = ["bad_word1", "bad_word2"]
 
 `npm start` - start develment server  
 `npm run build` - start build (builded app saves into `/dist`)
+
+## MONGODB
+
+`mongodb+srv://admin:adminpassword@okten-exam.prpxw59.mongodb.net/auto-market`
+
+## Postman Collection
+
+`https://antonohota-2611608.postman.co/workspace/Anton-Ohota's-Workspace~136fc0f6-86c7-4e84-8f87-c0fd1eb255f1/collection/52211374-1c8dea55-ebd3-4afa-b43a-d717323b2475?action=share&source=copy-link&creator=52211374`
 
 ## Docker
 
