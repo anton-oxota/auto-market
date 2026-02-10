@@ -1,0 +1,21 @@
+{
+    // Visit https://aka.ms/tsconfig to read more about this file
+    "compilerOptions": {
+        // File Layout
+        "rootDir": "./src",
+        "outDir": "./dist",
+
+        // Environment Settings
+        // See also https://aka.ms/tsconfig/module
+        "target": "esnext",
+        "module": "commonjs",
+        "moduleResolution": "node",
+
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+
+        // Recommended Options
+        "strict": true,
+        "skipLibCheck": true
+    }
+}
