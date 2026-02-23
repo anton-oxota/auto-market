@@ -6,7 +6,7 @@
 
 ```
 // .env file example
-MONGODB_URI = "mongodb+srv://admin:adminpassword@okten-exam.prpxw59.mongodb.net/auto-market"
+MONGODB_URI = "MONGODB_URI"
 SECRET_ACCESS_TOKEN = 'SECRET_ACCESS_TOKEN'
 SECRET_REFRESH_TOKEN = 'SECRET_REFRESH_TOKEN'
 GOOGLE_USER = 'email@gmail.com' // enter your Google email
